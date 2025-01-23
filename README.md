@@ -1,4 +1,3 @@
-# SQL-Based-Projects
 
 # Sarang's SQL Portfolio
 
